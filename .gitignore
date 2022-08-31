@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+# added custom ignore
 /ref-code/
+/DR-GAN-by-pytorch/
+/DR-GAN/
